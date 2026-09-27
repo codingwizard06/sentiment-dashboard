@@ -1,0 +1,601 @@
+review_id,date,product,rating,review_text,true_label
+28,2025-01-01,Halo Desk Lamp,4,I'm impressed with the build quality of the Halo Desk Lamp. Feels sturdy and well made.,positive
+25,2025-01-02,Aurora Wireless Earbuds,5,"The sound quality on the Aurora Wireless Earbuds is incredible, worth every penny.",positive
+481,2025-01-04,Halo Desk Lamp,4,Best purchase this year. The Halo Desk Lamp exceeded my expectations in every way.,positive
+204,2025-01-05,Comet Phone Case,5,Customer service was excellent when I had a question about the Comet Phone Case.,positive
+590,2025-01-05,Nimbus Smart Watch,1,The Nimbus Smart Watch feels cheap and the build quality is poor for the price.,negative
+586,2025-01-05,Pulse Fitness Tracker,5,Fast shipping and the Pulse Fitness Tracker feels premium. Highly recommend!,positive
+418,2025-01-05,Pulse Fitness Tracker,4,The Pulse Fitness Tracker has great battery life and the app integration is seamless.,positive
+143,2025-01-08,Zephyr Bluetooth Speaker,5,"The sound quality on the Zephyr Bluetooth Speaker is incredible, worth every penny.",positive
+233,2025-01-08,Nimbus Smart Watch,4,Absolutely love the Nimbus Smart Watch! The battery life is amazing and it works perfectly.,positive
+423,2025-01-08,Comet Phone Case,4,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+451,2025-01-09,Comet Phone Case,2,The Comet Phone Case stopped working after two weeks. Very disappointed.,negative
+474,2025-01-09,Zephyr Bluetooth Speaker,4,Fast shipping and the Zephyr Bluetooth Speaker feels premium. Highly recommend!,positive
+234,2025-01-09,Zephyr Bluetooth Speaker,2,Had a bad experience with customer support regarding my Zephyr Bluetooth Speaker.,negative
+484,2025-01-09,Halo Desk Lamp,2,Shipping was delayed and the Halo Desk Lamp arrived with a scratch.,negative
+485,2025-01-09,Aurora Wireless Earbuds,1,The app for the Aurora Wireless Earbuds is buggy and crashes constantly.,negative
+325,2025-01-09,Aurora Wireless Earbuds,2,"Not worth the money, the Aurora Wireless Earbuds broke within a month.",negative
+136,2025-01-09,Comet Phone Case,5,"The Comet Phone Case is comfortable to use for hours, no complaints at all.",positive
+397,2025-01-10,Aurora Wireless Earbuds,1,"Battery life on the Aurora Wireless Earbuds is terrible, dies within a few hours.",negative
+116,2025-01-10,Zephyr Bluetooth Speaker,3,"It's a decent Zephyr Bluetooth Speaker for the price, no major complaints.",neutral
+296,2025-01-10,Aurora Wireless Earbuds,2,The app for the Aurora Wireless Earbuds is buggy and crashes constantly.,negative
+317,2025-01-10,Comet Phone Case,4,Absolutely love the Comet Phone Case! The battery life is amazing and it works perfectly.,positive
+164,2025-01-11,Nimbus Smart Watch,3,"The Nimbus Smart Watch arrived on time, still testing it out.",neutral
+106,2025-01-11,Nimbus Smart Watch,3,"It's a decent Nimbus Smart Watch for the price, no major complaints.",neutral
+448,2025-01-12,Nimbus Smart Watch,1,Had a bad experience with customer support regarding my Nimbus Smart Watch.,negative
+92,2025-01-13,Comet Phone Case,4,Fast shipping and the Comet Phone Case feels premium. Highly recommend!,positive
+534,2025-01-13,Zephyr Bluetooth Speaker,5,"The sound quality on the Zephyr Bluetooth Speaker is incredible, worth every penny.",positive
+509,2025-01-14,Nimbus Smart Watch,4,Customer service was excellent when I had a question about the Nimbus Smart Watch.,positive
+394,2025-01-14,Zephyr Bluetooth Speaker,2,The app for the Zephyr Bluetooth Speaker is buggy and crashes constantly.,negative
+111,2025-01-14,Nimbus Smart Watch,3,"The Nimbus Smart Watch arrived on time, still testing it out.",neutral
+367,2025-01-15,Comet Phone Case,1,"Not worth the money, the Comet Phone Case broke within a month.",negative
+109,2025-01-15,Pulse Fitness Tracker,5,Customer service was excellent when I had a question about the Pulse Fitness Tracker.,positive
+131,2025-01-15,Halo Desk Lamp,2,The app for the Halo Desk Lamp is buggy and crashes constantly.,negative
+342,2025-01-16,Comet Phone Case,1,"Not worth the money, the Comet Phone Case broke within a month.",negative
+238,2025-01-16,Comet Phone Case,2,"The Comet Phone Case disconnects randomly, connectivity issues are frustrating.",negative
+156,2025-01-17,Pulse Fitness Tracker,2,Shipping was delayed and the Pulse Fitness Tracker arrived with a scratch.,negative
+15,2025-01-17,Comet Phone Case,4,Absolutely love the Comet Phone Case! The battery life is amazing and it works perfectly.,positive
+2,2025-01-17,Nimbus Smart Watch,2,"Battery life on the Nimbus Smart Watch is terrible, dies within a few hours.",negative
+491,2025-01-17,Comet Phone Case,3,"Mixed feelings about the Comet Phone Case, some features are good, others not so much.",neutral
+208,2025-01-18,Comet Phone Case,2,"The Comet Phone Case disconnects randomly, connectivity issues are frustrating.",negative
+388,2025-01-20,Halo Desk Lamp,1,The Halo Desk Lamp stopped working after two weeks. Very disappointed.,negative
+315,2025-01-20,Comet Phone Case,1,The Comet Phone Case feels cheap and the build quality is poor for the price.,negative
+219,2025-01-20,Comet Phone Case,4,"The sound quality on the Comet Phone Case is incredible, worth every penny.",positive
+74,2025-01-20,Zephyr Bluetooth Speaker,5,Best purchase this year. The Zephyr Bluetooth Speaker exceeded my expectations in every way.,positive
+416,2025-01-20,Comet Phone Case,4,Best purchase this year. The Comet Phone Case exceeded my expectations in every way.,positive
+300,2025-01-20,Halo Desk Lamp,3,"The Halo Desk Lamp arrived on time, still testing it out.",neutral
+162,2025-01-21,Halo Desk Lamp,1,Shipping was delayed and the Halo Desk Lamp arrived with a scratch.,negative
+165,2025-01-21,Comet Phone Case,3,"The Comet Phone Case arrived on time, still testing it out.",neutral
+330,2025-01-22,Aurora Wireless Earbuds,4,Absolutely love the Aurora Wireless Earbuds! The battery life is amazing and it works perfectly.,positive
+530,2025-01-23,Aurora Wireless Earbuds,1,"Not worth the money, the Aurora Wireless Earbuds broke within a month.",negative
+453,2025-01-23,Halo Desk Lamp,1,The Halo Desk Lamp stopped working after two weeks. Very disappointed.,negative
+237,2025-01-23,Halo Desk Lamp,1,Shipping was delayed and the Halo Desk Lamp arrived with a scratch.,negative
+81,2025-01-23,Aurora Wireless Earbuds,5,Fast shipping and the Aurora Wireless Earbuds feels premium. Highly recommend!,positive
+327,2025-01-23,Halo Desk Lamp,1,"Not worth the money, the Halo Desk Lamp broke within a month.",negative
+302,2025-01-23,Nimbus Smart Watch,5,"The sound quality on the Nimbus Smart Watch is incredible, worth every penny.",positive
+383,2025-01-24,Zephyr Bluetooth Speaker,2,The app for the Zephyr Bluetooth Speaker is buggy and crashes constantly.,negative
+264,2025-01-24,Aurora Wireless Earbuds,5,"The Aurora Wireless Earbuds is comfortable to use for hours, no complaints at all.",positive
+495,2025-01-24,Aurora Wireless Earbuds,5,"The Aurora Wireless Earbuds is comfortable to use for hours, no complaints at all.",positive
+195,2025-01-24,Pulse Fitness Tracker,4,The Pulse Fitness Tracker has great battery life and the app integration is seamless.,positive
+578,2025-01-25,Halo Desk Lamp,2,Shipping was delayed and the Halo Desk Lamp arrived with a scratch.,negative
+410,2025-01-26,Halo Desk Lamp,1,Had a bad experience with customer support regarding my Halo Desk Lamp.,negative
+205,2025-01-26,Halo Desk Lamp,3,"Mixed feelings about the Halo Desk Lamp, some features are good, others not so much.",neutral
+113,2025-01-26,Nimbus Smart Watch,3,"Average experience with the Nimbus Smart Watch, meets basic expectations.",neutral
+251,2025-01-27,Comet Phone Case,5,I'm impressed with the build quality of the Comet Phone Case. Feels sturdy and well made.,positive
+144,2025-01-28,Comet Phone Case,1,"The Comet Phone Case disconnects randomly, connectivity issues are frustrating.",negative
+554,2025-01-28,Zephyr Bluetooth Speaker,3,"The Zephyr Bluetooth Speaker arrived on time, still testing it out.",neutral
+597,2025-01-28,Halo Desk Lamp,2,The app for the Halo Desk Lamp is buggy and crashes constantly.,negative
+492,2025-01-29,Aurora Wireless Earbuds,5,Customer service was excellent when I had a question about the Aurora Wireless Earbuds.,positive
+52,2025-01-30,Aurora Wireless Earbuds,4,"The Aurora Wireless Earbuds is comfortable to use for hours, no complaints at all.",positive
+480,2025-01-31,Nimbus Smart Watch,3,"The Nimbus Smart Watch arrived on time, still testing it out.",neutral
+483,2025-01-31,Aurora Wireless Earbuds,5,"The Aurora Wireless Earbuds is comfortable to use for hours, no complaints at all.",positive
+566,2025-01-31,Halo Desk Lamp,4,Fast shipping and the Halo Desk Lamp feels premium. Highly recommend!,positive
+249,2025-01-31,Aurora Wireless Earbuds,1,"Not worth the money, the Aurora Wireless Earbuds broke within a month.",negative
+105,2025-02-01,Pulse Fitness Tracker,5,"The Pulse Fitness Tracker is comfortable to use for hours, no complaints at all.",positive
+104,2025-02-02,Nimbus Smart Watch,4,"The sound quality on the Nimbus Smart Watch is incredible, worth every penny.",positive
+513,2025-02-02,Zephyr Bluetooth Speaker,4,"The Zephyr Bluetooth Speaker is comfortable to use for hours, no complaints at all.",positive
+442,2025-02-02,Halo Desk Lamp,5,Customer service was excellent when I had a question about the Halo Desk Lamp.,positive
+323,2025-02-04,Nimbus Smart Watch,2,"Battery life on the Nimbus Smart Watch is terrible, dies within a few hours.",negative
+538,2025-02-04,Pulse Fitness Tracker,2,Shipping was delayed and the Pulse Fitness Tracker arrived with a scratch.,negative
+53,2025-02-04,Halo Desk Lamp,4,"The sound quality on the Halo Desk Lamp is incredible, worth every penny.",positive
+117,2025-02-05,Comet Phone Case,1,"Not worth the money, the Comet Phone Case broke within a month.",negative
+257,2025-02-05,Aurora Wireless Earbuds,5,"The sound quality on the Aurora Wireless Earbuds is incredible, worth every penny.",positive
+9,2025-02-05,Halo Desk Lamp,4,I'm impressed with the build quality of the Halo Desk Lamp. Feels sturdy and well made.,positive
+192,2025-02-05,Comet Phone Case,1,Shipping was delayed and the Comet Phone Case arrived with a scratch.,negative
+268,2025-02-06,Nimbus Smart Watch,5,Fast shipping and the Nimbus Smart Watch feels premium. Highly recommend!,positive
+38,2025-02-06,Aurora Wireless Earbuds,3,"The Aurora Wireless Earbuds works fine, though the design could be improved.",neutral
+157,2025-02-06,Nimbus Smart Watch,5,The Nimbus Smart Watch has great battery life and the app integration is seamless.,positive
+526,2025-02-07,Comet Phone Case,5,Customer service was excellent when I had a question about the Comet Phone Case.,positive
+341,2025-02-08,Comet Phone Case,3,"The Comet Phone Case is okay, does what it says but nothing special.",neutral
+278,2025-02-08,Nimbus Smart Watch,4,"The sound quality on the Nimbus Smart Watch is incredible, worth every penny.",positive
+189,2025-02-08,Pulse Fitness Tracker,3,"Average experience with the Pulse Fitness Tracker, meets basic expectations.",neutral
+298,2025-02-09,Nimbus Smart Watch,4,"The sound quality on the Nimbus Smart Watch is incredible, worth every penny.",positive
+8,2025-02-10,Aurora Wireless Earbuds,2,"Battery life on the Aurora Wireless Earbuds is terrible, dies within a few hours.",negative
+240,2025-02-11,Comet Phone Case,4,"The Comet Phone Case is comfortable to use for hours, no complaints at all.",positive
+490,2025-02-11,Pulse Fitness Tracker,2,Had a bad experience with customer support regarding my Pulse Fitness Tracker.,negative
+336,2025-02-12,Pulse Fitness Tracker,2,"Not worth the money, the Pulse Fitness Tracker broke within a month.",negative
+30,2025-02-13,Zephyr Bluetooth Speaker,4,Fast shipping and the Zephyr Bluetooth Speaker feels premium. Highly recommend!,positive
+529,2025-02-13,Comet Phone Case,3,"The Comet Phone Case arrived on time, still testing it out.",neutral
+287,2025-02-13,Aurora Wireless Earbuds,3,"The Aurora Wireless Earbuds works fine, though the design could be improved.",neutral
+294,2025-02-13,Comet Phone Case,1,The app for the Comet Phone Case is buggy and crashes constantly.,negative
+90,2025-02-13,Pulse Fitness Tracker,1,Shipping was delayed and the Pulse Fitness Tracker arrived with a scratch.,negative
+508,2025-02-14,Zephyr Bluetooth Speaker,1,"Battery life on the Zephyr Bluetooth Speaker is terrible, dies within a few hours.",negative
+163,2025-02-16,Pulse Fitness Tracker,1,"The Pulse Fitness Tracker disconnects randomly, connectivity issues are frustrating.",negative
+19,2025-02-16,Zephyr Bluetooth Speaker,5,"The sound quality on the Zephyr Bluetooth Speaker is incredible, worth every penny.",positive
+438,2025-02-16,Halo Desk Lamp,5,Fast shipping and the Halo Desk Lamp feels premium. Highly recommend!,positive
+193,2025-02-16,Nimbus Smart Watch,1,"The Nimbus Smart Watch disconnects randomly, connectivity issues are frustrating.",negative
+582,2025-02-17,Nimbus Smart Watch,3,"The Nimbus Smart Watch works fine, though the design could be improved.",neutral
+41,2025-02-18,Nimbus Smart Watch,1,The app for the Nimbus Smart Watch is buggy and crashes constantly.,negative
+220,2025-02-19,Zephyr Bluetooth Speaker,3,"The Zephyr Bluetooth Speaker is okay, does what it says but nothing special.",neutral
+487,2025-02-19,Comet Phone Case,1,The Comet Phone Case feels cheap and the build quality is poor for the price.,negative
+207,2025-02-19,Nimbus Smart Watch,1,"The Nimbus Smart Watch disconnects randomly, connectivity issues are frustrating.",negative
+537,2025-02-19,Nimbus Smart Watch,2,"Not worth the money, the Nimbus Smart Watch broke within a month.",negative
+472,2025-02-20,Zephyr Bluetooth Speaker,2,Shipping was delayed and the Zephyr Bluetooth Speaker arrived with a scratch.,negative
+500,2025-02-20,Comet Phone Case,3,"The Comet Phone Case is okay, does what it says but nothing special.",neutral
+43,2025-02-20,Pulse Fitness Tracker,3,"The Pulse Fitness Tracker is okay, does what it says but nothing special.",neutral
+314,2025-02-20,Aurora Wireless Earbuds,5,Absolutely love the Aurora Wireless Earbuds! The battery life is amazing and it works perfectly.,positive
+187,2025-02-21,Halo Desk Lamp,5,Best purchase this year. The Halo Desk Lamp exceeded my expectations in every way.,positive
+194,2025-02-21,Pulse Fitness Tracker,3,"Mixed feelings about the Pulse Fitness Tracker, some features are good, others not so much.",neutral
+412,2025-02-21,Aurora Wireless Earbuds,5,I'm impressed with the build quality of the Aurora Wireless Earbuds. Feels sturdy and well made.,positive
+145,2025-02-22,Halo Desk Lamp,5,"The sound quality on the Halo Desk Lamp is incredible, worth every penny.",positive
+6,2025-02-22,Zephyr Bluetooth Speaker,5,Fast shipping and the Zephyr Bluetooth Speaker feels premium. Highly recommend!,positive
+545,2025-02-22,Comet Phone Case,3,"The Comet Phone Case is okay, does what it says but nothing special.",neutral
+588,2025-02-22,Pulse Fitness Tracker,4,Customer service was excellent when I had a question about the Pulse Fitness Tracker.,positive
+277,2025-02-22,Zephyr Bluetooth Speaker,1,The Zephyr Bluetooth Speaker feels cheap and the build quality is poor for the price.,negative
+326,2025-02-23,Zephyr Bluetooth Speaker,1,"Not worth the money, the Zephyr Bluetooth Speaker broke within a month.",negative
+126,2025-02-24,Comet Phone Case,5,Customer service was excellent when I had a question about the Comet Phone Case.,positive
+532,2025-02-24,Zephyr Bluetooth Speaker,3,"It's a decent Zephyr Bluetooth Speaker for the price, no major complaints.",neutral
+253,2025-02-25,Nimbus Smart Watch,4,"The Nimbus Smart Watch is comfortable to use for hours, no complaints at all.",positive
+409,2025-02-25,Halo Desk Lamp,4,The Halo Desk Lamp has great battery life and the app integration is seamless.,positive
+79,2025-02-25,Zephyr Bluetooth Speaker,4,The Zephyr Bluetooth Speaker has great battery life and the app integration is seamless.,positive
+320,2025-02-26,Pulse Fitness Tracker,1,Shipping was delayed and the Pulse Fitness Tracker arrived with a scratch.,negative
+318,2025-02-26,Zephyr Bluetooth Speaker,5,"The sound quality on the Zephyr Bluetooth Speaker is incredible, worth every penny.",positive
+67,2025-02-27,Nimbus Smart Watch,1,The app for the Nimbus Smart Watch is buggy and crashes constantly.,negative
+522,2025-02-28,Pulse Fitness Tracker,5,Customer service was excellent when I had a question about the Pulse Fitness Tracker.,positive
+271,2025-02-28,Halo Desk Lamp,5,Customer service was excellent when I had a question about the Halo Desk Lamp.,positive
+243,2025-02-28,Pulse Fitness Tracker,1,The app for the Pulse Fitness Tracker is buggy and crashes constantly.,negative
+254,2025-02-28,Zephyr Bluetooth Speaker,3,"The Zephyr Bluetooth Speaker works fine, though the design could be improved.",neutral
+23,2025-02-28,Halo Desk Lamp,3,"The Halo Desk Lamp is okay, does what it says but nothing special.",neutral
+560,2025-02-28,Halo Desk Lamp,1,Shipping was delayed and the Halo Desk Lamp arrived with a scratch.,negative
+535,2025-03-01,Pulse Fitness Tracker,4,Customer service was excellent when I had a question about the Pulse Fitness Tracker.,positive
+78,2025-03-01,Comet Phone Case,1,"Not worth the money, the Comet Phone Case broke within a month.",negative
+446,2025-03-02,Pulse Fitness Tracker,5,"The sound quality on the Pulse Fitness Tracker is incredible, worth every penny.",positive
+564,2025-03-02,Zephyr Bluetooth Speaker,5,Best purchase this year. The Zephyr Bluetooth Speaker exceeded my expectations in every way.,positive
+385,2025-03-02,Aurora Wireless Earbuds,5,"The Aurora Wireless Earbuds is comfortable to use for hours, no complaints at all.",positive
+35,2025-03-03,Pulse Fitness Tracker,3,"It's a decent Pulse Fitness Tracker for the price, no major complaints.",neutral
+54,2025-03-03,Comet Phone Case,3,"It's a decent Comet Phone Case for the price, no major complaints.",neutral
+405,2025-03-04,Zephyr Bluetooth Speaker,2,"The Zephyr Bluetooth Speaker disconnects randomly, connectivity issues are frustrating.",negative
+362,2025-03-05,Halo Desk Lamp,3,"The Halo Desk Lamp is okay, does what it says but nothing special.",neutral
+215,2025-03-05,Aurora Wireless Earbuds,2,The Aurora Wireless Earbuds stopped working after two weeks. Very disappointed.,negative
+593,2025-03-05,Aurora Wireless Earbuds,3,"Average experience with the Aurora Wireless Earbuds, meets basic expectations.",neutral
+579,2025-03-05,Aurora Wireless Earbuds,4,"The Aurora Wireless Earbuds is comfortable to use for hours, no complaints at all.",positive
+569,2025-03-06,Pulse Fitness Tracker,3,"The Pulse Fitness Tracker works fine, though the design could be improved.",neutral
+359,2025-03-06,Halo Desk Lamp,4,Customer service was excellent when I had a question about the Halo Desk Lamp.,positive
+31,2025-03-07,Comet Phone Case,4,Best purchase this year. The Comet Phone Case exceeded my expectations in every way.,positive
+356,2025-03-08,Pulse Fitness Tracker,5,I'm impressed with the build quality of the Pulse Fitness Tracker. Feels sturdy and well made.,positive
+373,2025-03-08,Comet Phone Case,5,I'm impressed with the build quality of the Comet Phone Case. Feels sturdy and well made.,positive
+39,2025-03-09,Halo Desk Lamp,4,"The Halo Desk Lamp is comfortable to use for hours, no complaints at all.",positive
+587,2025-03-09,Aurora Wireless Earbuds,2,"Battery life on the Aurora Wireless Earbuds is terrible, dies within a few hours.",negative
+439,2025-03-09,Halo Desk Lamp,5,Absolutely love the Halo Desk Lamp! The battery life is amazing and it works perfectly.,positive
+210,2025-03-09,Zephyr Bluetooth Speaker,1,The Zephyr Bluetooth Speaker feels cheap and the build quality is poor for the price.,negative
+549,2025-03-10,Pulse Fitness Tracker,1,"The Pulse Fitness Tracker disconnects randomly, connectivity issues are frustrating.",negative
+382,2025-03-10,Halo Desk Lamp,5,Best purchase this year. The Halo Desk Lamp exceeded my expectations in every way.,positive
+62,2025-03-10,Aurora Wireless Earbuds,1,"The Aurora Wireless Earbuds disconnects randomly, connectivity issues are frustrating.",negative
+555,2025-03-11,Zephyr Bluetooth Speaker,3,"It's a decent Zephyr Bluetooth Speaker for the price, no major complaints.",neutral
+568,2025-03-11,Comet Phone Case,4,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+399,2025-03-12,Pulse Fitness Tracker,1,Shipping was delayed and the Pulse Fitness Tracker arrived with a scratch.,negative
+551,2025-03-12,Zephyr Bluetooth Speaker,2,The app for the Zephyr Bluetooth Speaker is buggy and crashes constantly.,negative
+316,2025-03-13,Zephyr Bluetooth Speaker,3,"It's a decent Zephyr Bluetooth Speaker for the price, no major complaints.",neutral
+454,2025-03-13,Pulse Fitness Tracker,4,Fast shipping and the Pulse Fitness Tracker feels premium. Highly recommend!,positive
+512,2025-03-13,Halo Desk Lamp,1,The app for the Halo Desk Lamp is buggy and crashes constantly.,negative
+375,2025-03-14,Pulse Fitness Tracker,4,"The Pulse Fitness Tracker is comfortable to use for hours, no complaints at all.",positive
+159,2025-03-14,Aurora Wireless Earbuds,2,The Aurora Wireless Earbuds feels cheap and the build quality is poor for the price.,negative
+17,2025-03-15,Nimbus Smart Watch,2,The app for the Nimbus Smart Watch is buggy and crashes constantly.,negative
+321,2025-03-15,Pulse Fitness Tracker,1,The Pulse Fitness Tracker stopped working after two weeks. Very disappointed.,negative
+188,2025-03-15,Halo Desk Lamp,3,"The Halo Desk Lamp is okay, does what it says but nothing special.",neutral
+570,2025-03-16,Comet Phone Case,3,"Average experience with the Comet Phone Case, meets basic expectations.",neutral
+231,2025-03-17,Halo Desk Lamp,5,Fast shipping and the Halo Desk Lamp feels premium. Highly recommend!,positive
+389,2025-03-18,Nimbus Smart Watch,2,Shipping was delayed and the Nimbus Smart Watch arrived with a scratch.,negative
+149,2025-03-18,Aurora Wireless Earbuds,1,The Aurora Wireless Earbuds stopped working after two weeks. Very disappointed.,negative
+68,2025-03-18,Aurora Wireless Earbuds,3,"Mixed feelings about the Aurora Wireless Earbuds, some features are good, others not so much.",neutral
+292,2025-03-18,Comet Phone Case,3,"The Comet Phone Case arrived on time, still testing it out.",neutral
+103,2025-03-19,Zephyr Bluetooth Speaker,4,Best purchase this year. The Zephyr Bluetooth Speaker exceeded my expectations in every way.,positive
+482,2025-03-19,Pulse Fitness Tracker,4,Fast shipping and the Pulse Fitness Tracker feels premium. Highly recommend!,positive
+185,2025-03-19,Comet Phone Case,5,Customer service was excellent when I had a question about the Comet Phone Case.,positive
+301,2025-03-20,Comet Phone Case,5,"The sound quality on the Comet Phone Case is incredible, worth every penny.",positive
+345,2025-03-20,Pulse Fitness Tracker,3,"The Pulse Fitness Tracker is okay, does what it says but nothing special.",neutral
+475,2025-03-20,Zephyr Bluetooth Speaker,2,The app for the Zephyr Bluetooth Speaker is buggy and crashes constantly.,negative
+505,2025-03-20,Nimbus Smart Watch,2,"Battery life on the Nimbus Smart Watch is terrible, dies within a few hours.",negative
+260,2025-03-21,Zephyr Bluetooth Speaker,1,"Battery life on the Zephyr Bluetooth Speaker is terrible, dies within a few hours.",negative
+353,2025-03-22,Comet Phone Case,5,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+200,2025-03-22,Zephyr Bluetooth Speaker,2,Shipping was delayed and the Zephyr Bluetooth Speaker arrived with a scratch.,negative
+20,2025-03-23,Aurora Wireless Earbuds,3,"Average experience with the Aurora Wireless Earbuds, meets basic expectations.",neutral
+174,2025-03-23,Comet Phone Case,4,Absolutely love the Comet Phone Case! The battery life is amazing and it works perfectly.,positive
+168,2025-03-24,Zephyr Bluetooth Speaker,4,I'm impressed with the build quality of the Zephyr Bluetooth Speaker. Feels sturdy and well made.,positive
+11,2025-03-25,Aurora Wireless Earbuds,5,"The Aurora Wireless Earbuds is comfortable to use for hours, no complaints at all.",positive
+422,2025-03-25,Pulse Fitness Tracker,5,Best purchase this year. The Pulse Fitness Tracker exceeded my expectations in every way.,positive
+583,2025-03-26,Comet Phone Case,5,Best purchase this year. The Comet Phone Case exceeded my expectations in every way.,positive
+565,2025-03-26,Nimbus Smart Watch,5,I'm impressed with the build quality of the Nimbus Smart Watch. Feels sturdy and well made.,positive
+478,2025-03-28,Comet Phone Case,2,Shipping was delayed and the Comet Phone Case arrived with a scratch.,negative
+275,2025-03-28,Zephyr Bluetooth Speaker,2,Had a bad experience with customer support regarding my Zephyr Bluetooth Speaker.,negative
+197,2025-03-29,Pulse Fitness Tracker,4,Customer service was excellent when I had a question about the Pulse Fitness Tracker.,positive
+366,2025-03-29,Halo Desk Lamp,1,The Halo Desk Lamp feels cheap and the build quality is poor for the price.,negative
+12,2025-03-29,Zephyr Bluetooth Speaker,4,The Zephyr Bluetooth Speaker has great battery life and the app integration is seamless.,positive
+351,2025-03-30,Aurora Wireless Earbuds,5,Best purchase this year. The Aurora Wireless Earbuds exceeded my expectations in every way.,positive
+552,2025-03-30,Halo Desk Lamp,5,"The sound quality on the Halo Desk Lamp is incredible, worth every penny.",positive
+600,2025-03-30,Nimbus Smart Watch,5,Customer service was excellent when I had a question about the Nimbus Smart Watch.,positive
+424,2025-03-31,Comet Phone Case,4,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+87,2025-03-31,Comet Phone Case,3,"Mixed feelings about the Comet Phone Case, some features are good, others not so much.",neutral
+72,2025-04-01,Halo Desk Lamp,1,Had a bad experience with customer support regarding my Halo Desk Lamp.,negative
+496,2025-04-02,Aurora Wireless Earbuds,1,"The Aurora Wireless Earbuds disconnects randomly, connectivity issues are frustrating.",negative
+166,2025-04-03,Nimbus Smart Watch,5,"The Nimbus Smart Watch is comfortable to use for hours, no complaints at all.",positive
+550,2025-04-04,Zephyr Bluetooth Speaker,4,The Zephyr Bluetooth Speaker has great battery life and the app integration is seamless.,positive
+426,2025-04-05,Halo Desk Lamp,4,Customer service was excellent when I had a question about the Halo Desk Lamp.,positive
+335,2025-04-06,Comet Phone Case,5,Customer service was excellent when I had a question about the Comet Phone Case.,positive
+348,2025-04-06,Comet Phone Case,4,Best purchase this year. The Comet Phone Case exceeded my expectations in every way.,positive
+553,2025-04-06,Halo Desk Lamp,4,The Halo Desk Lamp has great battery life and the app integration is seamless.,positive
+503,2025-04-06,Nimbus Smart Watch,5,Customer service was excellent when I had a question about the Nimbus Smart Watch.,positive
+450,2025-04-07,Nimbus Smart Watch,5,"The sound quality on the Nimbus Smart Watch is incredible, worth every penny.",positive
+466,2025-04-07,Pulse Fitness Tracker,1,The Pulse Fitness Tracker stopped working after two weeks. Very disappointed.,negative
+285,2025-04-07,Halo Desk Lamp,2,The Halo Desk Lamp stopped working after two weeks. Very disappointed.,negative
+50,2025-04-08,Pulse Fitness Tracker,4,"The Pulse Fitness Tracker is comfortable to use for hours, no complaints at all.",positive
+468,2025-04-08,Zephyr Bluetooth Speaker,4,Absolutely love the Zephyr Bluetooth Speaker! The battery life is amazing and it works perfectly.,positive
+178,2025-04-08,Pulse Fitness Tracker,5,"The sound quality on the Pulse Fitness Tracker is incredible, worth every penny.",positive
+402,2025-04-09,Halo Desk Lamp,5,The Halo Desk Lamp has great battery life and the app integration is seamless.,positive
+142,2025-04-10,Comet Phone Case,4,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+94,2025-04-10,Pulse Fitness Tracker,3,"The Pulse Fitness Tracker arrived on time, still testing it out.",neutral
+515,2025-04-11,Aurora Wireless Earbuds,5,Fast shipping and the Aurora Wireless Earbuds feels premium. Highly recommend!,positive
+387,2025-04-12,Zephyr Bluetooth Speaker,1,"Not worth the money, the Zephyr Bluetooth Speaker broke within a month.",negative
+3,2025-04-12,Aurora Wireless Earbuds,4,Fast shipping and the Aurora Wireless Earbuds feels premium. Highly recommend!,positive
+118,2025-04-13,Comet Phone Case,4,Absolutely love the Comet Phone Case! The battery life is amazing and it works perfectly.,positive
+307,2025-04-13,Zephyr Bluetooth Speaker,1,The app for the Zephyr Bluetooth Speaker is buggy and crashes constantly.,negative
+350,2025-04-13,Comet Phone Case,5,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+408,2025-04-14,Pulse Fitness Tracker,1,Shipping was delayed and the Pulse Fitness Tracker arrived with a scratch.,negative
+580,2025-04-14,Nimbus Smart Watch,5,Absolutely love the Nimbus Smart Watch! The battery life is amazing and it works perfectly.,positive
+265,2025-04-15,Nimbus Smart Watch,4,Absolutely love the Nimbus Smart Watch! The battery life is amazing and it works perfectly.,positive
+56,2025-04-15,Comet Phone Case,2,"Not worth the money, the Comet Phone Case broke within a month.",negative
+469,2025-04-15,Comet Phone Case,4,"The Comet Phone Case is comfortable to use for hours, no complaints at all.",positive
+398,2025-04-15,Pulse Fitness Tracker,5,"The sound quality on the Pulse Fitness Tracker is incredible, worth every penny.",positive
+229,2025-04-16,Nimbus Smart Watch,3,"The Nimbus Smart Watch arrived on time, still testing it out.",neutral
+467,2025-04-17,Halo Desk Lamp,2,Had a bad experience with customer support regarding my Halo Desk Lamp.,negative
+230,2025-04-17,Aurora Wireless Earbuds,3,"The Aurora Wireless Earbuds arrived on time, still testing it out.",neutral
+153,2025-04-17,Zephyr Bluetooth Speaker,1,The Zephyr Bluetooth Speaker stopped working after two weeks. Very disappointed.,negative
+59,2025-04-20,Aurora Wireless Earbuds,4,Best purchase this year. The Aurora Wireless Earbuds exceeded my expectations in every way.,positive
+585,2025-04-20,Comet Phone Case,4,Best purchase this year. The Comet Phone Case exceeded my expectations in every way.,positive
+591,2025-04-20,Halo Desk Lamp,2,Shipping was delayed and the Halo Desk Lamp arrived with a scratch.,negative
+141,2025-04-21,Aurora Wireless Earbuds,1,The Aurora Wireless Earbuds feels cheap and the build quality is poor for the price.,negative
+258,2025-04-21,Nimbus Smart Watch,1,The Nimbus Smart Watch stopped working after two weeks. Very disappointed.,negative
+592,2025-04-22,Comet Phone Case,2,The app for the Comet Phone Case is buggy and crashes constantly.,negative
+441,2025-04-22,Comet Phone Case,4,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+108,2025-04-23,Pulse Fitness Tracker,3,"It's a decent Pulse Fitness Tracker for the price, no major complaints.",neutral
+14,2025-04-23,Zephyr Bluetooth Speaker,3,"Mixed feelings about the Zephyr Bluetooth Speaker, some features are good, others not so much.",neutral
+457,2025-04-24,Nimbus Smart Watch,3,"The Nimbus Smart Watch arrived on time, still testing it out.",neutral
+311,2025-04-24,Nimbus Smart Watch,3,"The Nimbus Smart Watch is okay, does what it says but nothing special.",neutral
+1,2025-04-25,Comet Phone Case,4,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+175,2025-04-26,Zephyr Bluetooth Speaker,1,The app for the Zephyr Bluetooth Speaker is buggy and crashes constantly.,negative
+461,2025-04-26,Pulse Fitness Tracker,4,"The Pulse Fitness Tracker is comfortable to use for hours, no complaints at all.",positive
+37,2025-04-28,Halo Desk Lamp,4,Best purchase this year. The Halo Desk Lamp exceeded my expectations in every way.,positive
+36,2025-04-28,Nimbus Smart Watch,4,I'm impressed with the build quality of the Nimbus Smart Watch. Feels sturdy and well made.,positive
+449,2025-04-28,Zephyr Bluetooth Speaker,5,Customer service was excellent when I had a question about the Zephyr Bluetooth Speaker.,positive
+411,2025-04-30,Comet Phone Case,3,"Average experience with the Comet Phone Case, meets basic expectations.",neutral
+10,2025-04-30,Aurora Wireless Earbuds,1,"The Aurora Wireless Earbuds disconnects randomly, connectivity issues are frustrating.",negative
+91,2025-05-01,Zephyr Bluetooth Speaker,1,"Not worth the money, the Zephyr Bluetooth Speaker broke within a month.",negative
+47,2025-05-02,Halo Desk Lamp,4,Absolutely love the Halo Desk Lamp! The battery life is amazing and it works perfectly.,positive
+355,2025-05-02,Nimbus Smart Watch,4,Fast shipping and the Nimbus Smart Watch feels premium. Highly recommend!,positive
+319,2025-05-03,Zephyr Bluetooth Speaker,4,Best purchase this year. The Zephyr Bluetooth Speaker exceeded my expectations in every way.,positive
+154,2025-05-03,Comet Phone Case,4,Best purchase this year. The Comet Phone Case exceeded my expectations in every way.,positive
+183,2025-05-03,Zephyr Bluetooth Speaker,3,"Mixed feelings about the Zephyr Bluetooth Speaker, some features are good, others not so much.",neutral
+101,2025-05-03,Zephyr Bluetooth Speaker,2,"The Zephyr Bluetooth Speaker disconnects randomly, connectivity issues are frustrating.",negative
+135,2025-05-04,Nimbus Smart Watch,5,Customer service was excellent when I had a question about the Nimbus Smart Watch.,positive
+374,2025-05-04,Zephyr Bluetooth Speaker,2,"Battery life on the Zephyr Bluetooth Speaker is terrible, dies within a few hours.",negative
+396,2025-05-05,Nimbus Smart Watch,1,The app for the Nimbus Smart Watch is buggy and crashes constantly.,negative
+95,2025-05-05,Comet Phone Case,2,Shipping was delayed and the Comet Phone Case arrived with a scratch.,negative
+511,2025-05-05,Aurora Wireless Earbuds,4,Customer service was excellent when I had a question about the Aurora Wireless Earbuds.,positive
+129,2025-05-06,Pulse Fitness Tracker,5,The Pulse Fitness Tracker has great battery life and the app integration is seamless.,positive
+60,2025-05-06,Halo Desk Lamp,4,I'm impressed with the build quality of the Halo Desk Lamp. Feels sturdy and well made.,positive
+434,2025-05-07,Halo Desk Lamp,3,"Average experience with the Halo Desk Lamp, meets basic expectations.",neutral
+562,2025-05-07,Halo Desk Lamp,4,Customer service was excellent when I had a question about the Halo Desk Lamp.,positive
+376,2025-05-08,Aurora Wireless Earbuds,5,Customer service was excellent when I had a question about the Aurora Wireless Earbuds.,positive
+150,2025-05-08,Halo Desk Lamp,3,"The Halo Desk Lamp is okay, does what it says but nothing special.",neutral
+44,2025-05-08,Aurora Wireless Earbuds,4,I'm impressed with the build quality of the Aurora Wireless Earbuds. Feels sturdy and well made.,positive
+97,2025-05-08,Nimbus Smart Watch,4,"The Nimbus Smart Watch is comfortable to use for hours, no complaints at all.",positive
+73,2025-05-08,Pulse Fitness Tracker,5,I'm impressed with the build quality of the Pulse Fitness Tracker. Feels sturdy and well made.,positive
+364,2025-05-09,Comet Phone Case,4,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+232,2025-05-09,Halo Desk Lamp,4,"The sound quality on the Halo Desk Lamp is incredible, worth every penny.",positive
+22,2025-05-09,Halo Desk Lamp,3,"The Halo Desk Lamp arrived on time, still testing it out.",neutral
+525,2025-05-10,Comet Phone Case,4,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+170,2025-05-10,Halo Desk Lamp,5,Best purchase this year. The Halo Desk Lamp exceeded my expectations in every way.,positive
+291,2025-05-10,Aurora Wireless Earbuds,5,Customer service was excellent when I had a question about the Aurora Wireless Earbuds.,positive
+246,2025-05-11,Comet Phone Case,5,Customer service was excellent when I had a question about the Comet Phone Case.,positive
+266,2025-05-11,Zephyr Bluetooth Speaker,3,"Average experience with the Zephyr Bluetooth Speaker, meets basic expectations.",neutral
+120,2025-05-12,Comet Phone Case,5,Fast shipping and the Comet Phone Case feels premium. Highly recommend!,positive
+349,2025-05-14,Pulse Fitness Tracker,2,"Battery life on the Pulse Fitness Tracker is terrible, dies within a few hours.",negative
+471,2025-05-14,Zephyr Bluetooth Speaker,5,I'm impressed with the build quality of the Zephyr Bluetooth Speaker. Feels sturdy and well made.,positive
+427,2025-05-14,Nimbus Smart Watch,4,Fast shipping and the Nimbus Smart Watch feels premium. Highly recommend!,positive
+66,2025-05-15,Zephyr Bluetooth Speaker,4,I'm impressed with the build quality of the Zephyr Bluetooth Speaker. Feels sturdy and well made.,positive
+49,2025-05-16,Aurora Wireless Earbuds,5,Absolutely love the Aurora Wireless Earbuds! The battery life is amazing and it works perfectly.,positive
+7,2025-05-16,Aurora Wireless Earbuds,5,I'm impressed with the build quality of the Aurora Wireless Earbuds. Feels sturdy and well made.,positive
+64,2025-05-16,Zephyr Bluetooth Speaker,1,"Not worth the money, the Zephyr Bluetooth Speaker broke within a month.",negative
+255,2025-05-17,Zephyr Bluetooth Speaker,1,The app for the Zephyr Bluetooth Speaker is buggy and crashes constantly.,negative
+465,2025-05-18,Zephyr Bluetooth Speaker,4,Fast shipping and the Zephyr Bluetooth Speaker feels premium. Highly recommend!,positive
+139,2025-05-19,Comet Phone Case,2,"Not worth the money, the Comet Phone Case broke within a month.",negative
+261,2025-05-20,Nimbus Smart Watch,1,The Nimbus Smart Watch stopped working after two weeks. Very disappointed.,negative
+63,2025-05-20,Zephyr Bluetooth Speaker,4,Best purchase this year. The Zephyr Bluetooth Speaker exceeded my expectations in every way.,positive
+102,2025-05-20,Zephyr Bluetooth Speaker,4,The Zephyr Bluetooth Speaker has great battery life and the app integration is seamless.,positive
+161,2025-05-20,Aurora Wireless Earbuds,5,The Aurora Wireless Earbuds has great battery life and the app integration is seamless.,positive
+340,2025-05-21,Zephyr Bluetooth Speaker,5,I'm impressed with the build quality of the Zephyr Bluetooth Speaker. Feels sturdy and well made.,positive
+241,2025-05-21,Zephyr Bluetooth Speaker,1,"Battery life on the Zephyr Bluetooth Speaker is terrible, dies within a few hours.",negative
+179,2025-05-22,Halo Desk Lamp,1,The Halo Desk Lamp feels cheap and the build quality is poor for the price.,negative
+544,2025-05-23,Pulse Fitness Tracker,4,Fast shipping and the Pulse Fitness Tracker feels premium. Highly recommend!,positive
+133,2025-05-24,Nimbus Smart Watch,5,The Nimbus Smart Watch has great battery life and the app integration is seamless.,positive
+223,2025-05-24,Comet Phone Case,5,"The Comet Phone Case is comfortable to use for hours, no complaints at all.",positive
+180,2025-05-25,Pulse Fitness Tracker,4,The Pulse Fitness Tracker has great battery life and the app integration is seamless.,positive
+419,2025-05-26,Zephyr Bluetooth Speaker,2,"Battery life on the Zephyr Bluetooth Speaker is terrible, dies within a few hours.",negative
+595,2025-05-26,Nimbus Smart Watch,4,Best purchase this year. The Nimbus Smart Watch exceeded my expectations in every way.,positive
+309,2025-05-26,Zephyr Bluetooth Speaker,1,"Battery life on the Zephyr Bluetooth Speaker is terrible, dies within a few hours.",negative
+303,2025-05-26,Pulse Fitness Tracker,5,Fast shipping and the Pulse Fitness Tracker feels premium. Highly recommend!,positive
+381,2025-05-27,Aurora Wireless Earbuds,5,"The Aurora Wireless Earbuds is comfortable to use for hours, no complaints at all.",positive
+332,2025-05-27,Halo Desk Lamp,4,Absolutely love the Halo Desk Lamp! The battery life is amazing and it works perfectly.,positive
+415,2025-05-27,Comet Phone Case,5,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+283,2025-05-27,Pulse Fitness Tracker,5,Absolutely love the Pulse Fitness Tracker! The battery life is amazing and it works perfectly.,positive
+384,2025-05-28,Pulse Fitness Tracker,5,Fast shipping and the Pulse Fitness Tracker feels premium. Highly recommend!,positive
+558,2025-05-30,Pulse Fitness Tracker,4,Absolutely love the Pulse Fitness Tracker! The battery life is amazing and it works perfectly.,positive
+520,2025-05-30,Zephyr Bluetooth Speaker,5,Customer service was excellent when I had a question about the Zephyr Bluetooth Speaker.,positive
+337,2025-05-31,Comet Phone Case,4,Customer service was excellent when I had a question about the Comet Phone Case.,positive
+242,2025-05-31,Halo Desk Lamp,2,"Not worth the money, the Halo Desk Lamp broke within a month.",negative
+504,2025-06-01,Comet Phone Case,1,The app for the Comet Phone Case is buggy and crashes constantly.,negative
+209,2025-06-01,Halo Desk Lamp,4,"The sound quality on the Halo Desk Lamp is incredible, worth every penny.",positive
+431,2025-06-01,Nimbus Smart Watch,4,The Nimbus Smart Watch has great battery life and the app integration is seamless.,positive
+203,2025-06-01,Pulse Fitness Tracker,5,Customer service was excellent when I had a question about the Pulse Fitness Tracker.,positive
+107,2025-06-02,Halo Desk Lamp,5,Absolutely love the Halo Desk Lamp! The battery life is amazing and it works perfectly.,positive
+403,2025-06-02,Nimbus Smart Watch,4,The Nimbus Smart Watch has great battery life and the app integration is seamless.,positive
+84,2025-06-03,Comet Phone Case,3,"Mixed feelings about the Comet Phone Case, some features are good, others not so much.",neutral
+460,2025-06-03,Zephyr Bluetooth Speaker,1,The app for the Zephyr Bluetooth Speaker is buggy and crashes constantly.,negative
+456,2025-06-04,Halo Desk Lamp,1,"Not worth the money, the Halo Desk Lamp broke within a month.",negative
+218,2025-06-04,Halo Desk Lamp,5,Best purchase this year. The Halo Desk Lamp exceeded my expectations in every way.,positive
+581,2025-06-04,Comet Phone Case,3,"Mixed feelings about the Comet Phone Case, some features are good, others not so much.",neutral
+123,2025-06-04,Comet Phone Case,4,Fast shipping and the Comet Phone Case feels premium. Highly recommend!,positive
+428,2025-06-04,Pulse Fitness Tracker,5,The Pulse Fitness Tracker has great battery life and the app integration is seamless.,positive
+369,2025-06-04,Halo Desk Lamp,2,Shipping was delayed and the Halo Desk Lamp arrived with a scratch.,negative
+281,2025-06-05,Nimbus Smart Watch,5,"The Nimbus Smart Watch is comfortable to use for hours, no complaints at all.",positive
+365,2025-06-05,Nimbus Smart Watch,1,"The Nimbus Smart Watch disconnects randomly, connectivity issues are frustrating.",negative
+88,2025-06-05,Halo Desk Lamp,1,The app for the Halo Desk Lamp is buggy and crashes constantly.,negative
+137,2025-06-06,Aurora Wireless Earbuds,4,Customer service was excellent when I had a question about the Aurora Wireless Earbuds.,positive
+75,2025-06-06,Pulse Fitness Tracker,5,"The Pulse Fitness Tracker is comfortable to use for hours, no complaints at all.",positive
+338,2025-06-06,Zephyr Bluetooth Speaker,5,I'm impressed with the build quality of the Zephyr Bluetooth Speaker. Feels sturdy and well made.,positive
+430,2025-06-07,Comet Phone Case,5,Best purchase this year. The Comet Phone Case exceeded my expectations in every way.,positive
+440,2025-06-07,Halo Desk Lamp,5,Absolutely love the Halo Desk Lamp! The battery life is amazing and it works perfectly.,positive
+282,2025-06-08,Zephyr Bluetooth Speaker,1,"Not worth the money, the Zephyr Bluetooth Speaker broke within a month.",negative
+357,2025-06-08,Halo Desk Lamp,3,"The Halo Desk Lamp is okay, does what it says but nothing special.",neutral
+304,2025-06-08,Comet Phone Case,1,Had a bad experience with customer support regarding my Comet Phone Case.,negative
+293,2025-06-08,Zephyr Bluetooth Speaker,5,"The sound quality on the Zephyr Bluetooth Speaker is incredible, worth every penny.",positive
+121,2025-06-09,Zephyr Bluetooth Speaker,4,Best purchase this year. The Zephyr Bluetooth Speaker exceeded my expectations in every way.,positive
+33,2025-06-09,Halo Desk Lamp,4,Fast shipping and the Halo Desk Lamp feels premium. Highly recommend!,positive
+83,2025-06-10,Aurora Wireless Earbuds,3,"The Aurora Wireless Earbuds works fine, though the design could be improved.",neutral
+377,2025-06-10,Nimbus Smart Watch,3,"The Nimbus Smart Watch arrived on time, still testing it out.",neutral
+51,2025-06-10,Zephyr Bluetooth Speaker,4,Absolutely love the Zephyr Bluetooth Speaker! The battery life is amazing and it works perfectly.,positive
+347,2025-06-10,Aurora Wireless Earbuds,2,"Not worth the money, the Aurora Wireless Earbuds broke within a month.",negative
+372,2025-06-10,Pulse Fitness Tracker,4,I'm impressed with the build quality of the Pulse Fitness Tracker. Feels sturdy and well made.,positive
+58,2025-06-11,Nimbus Smart Watch,2,"The Nimbus Smart Watch disconnects randomly, connectivity issues are frustrating.",negative
+594,2025-06-11,Halo Desk Lamp,2,"Not worth the money, the Halo Desk Lamp broke within a month.",negative
+16,2025-06-11,Zephyr Bluetooth Speaker,4,Best purchase this year. The Zephyr Bluetooth Speaker exceeded my expectations in every way.,positive
+140,2025-06-11,Zephyr Bluetooth Speaker,4,Best purchase this year. The Zephyr Bluetooth Speaker exceeded my expectations in every way.,positive
+280,2025-06-11,Pulse Fitness Tracker,2,Shipping was delayed and the Pulse Fitness Tracker arrived with a scratch.,negative
+191,2025-06-12,Comet Phone Case,5,I'm impressed with the build quality of the Comet Phone Case. Feels sturdy and well made.,positive
+599,2025-06-12,Comet Phone Case,2,The Comet Phone Case stopped working after two weeks. Very disappointed.,negative
+506,2025-06-12,Pulse Fitness Tracker,2,The Pulse Fitness Tracker feels cheap and the build quality is poor for the price.,negative
+184,2025-06-12,Halo Desk Lamp,4,Customer service was excellent when I had a question about the Halo Desk Lamp.,positive
+455,2025-06-13,Halo Desk Lamp,3,"Average experience with the Halo Desk Lamp, meets basic expectations.",neutral
+518,2025-06-14,Pulse Fitness Tracker,5,"The sound quality on the Pulse Fitness Tracker is incredible, worth every penny.",positive
+470,2025-06-14,Pulse Fitness Tracker,3,"The Pulse Fitness Tracker arrived on time, still testing it out.",neutral
+567,2025-06-15,Halo Desk Lamp,4,The Halo Desk Lamp has great battery life and the app integration is seamless.,positive
+363,2025-06-15,Halo Desk Lamp,4,"The sound quality on the Halo Desk Lamp is incredible, worth every penny.",positive
+521,2025-06-16,Comet Phone Case,1,Shipping was delayed and the Comet Phone Case arrived with a scratch.,negative
+437,2025-06-17,Nimbus Smart Watch,1,The Nimbus Smart Watch feels cheap and the build quality is poor for the price.,negative
+390,2025-06-17,Halo Desk Lamp,3,"Average experience with the Halo Desk Lamp, meets basic expectations.",neutral
+114,2025-06-17,Zephyr Bluetooth Speaker,5,Fast shipping and the Zephyr Bluetooth Speaker feels premium. Highly recommend!,positive
+217,2025-06-17,Aurora Wireless Earbuds,1,Shipping was delayed and the Aurora Wireless Earbuds arrived with a scratch.,negative
+517,2025-06-18,Zephyr Bluetooth Speaker,3,"It's a decent Zephyr Bluetooth Speaker for the price, no major complaints.",neutral
+76,2025-06-18,Nimbus Smart Watch,5,Fast shipping and the Nimbus Smart Watch feels premium. Highly recommend!,positive
+250,2025-06-18,Halo Desk Lamp,3,"The Halo Desk Lamp arrived on time, still testing it out.",neutral
+333,2025-06-19,Zephyr Bluetooth Speaker,3,"The Zephyr Bluetooth Speaker is okay, does what it says but nothing special.",neutral
+498,2025-06-19,Aurora Wireless Earbuds,5,Fast shipping and the Aurora Wireless Earbuds feels premium. Highly recommend!,positive
+228,2025-06-20,Aurora Wireless Earbuds,1,The Aurora Wireless Earbuds stopped working after two weeks. Very disappointed.,negative
+290,2025-06-21,Zephyr Bluetooth Speaker,4,I'm impressed with the build quality of the Zephyr Bluetooth Speaker. Feels sturdy and well made.,positive
+577,2025-06-22,Nimbus Smart Watch,5,I'm impressed with the build quality of the Nimbus Smart Watch. Feels sturdy and well made.,positive
+391,2025-06-22,Halo Desk Lamp,5,Customer service was excellent when I had a question about the Halo Desk Lamp.,positive
+24,2025-06-24,Comet Phone Case,3,"The Comet Phone Case works fine, though the design could be improved.",neutral
+401,2025-06-25,Pulse Fitness Tracker,5,"The sound quality on the Pulse Fitness Tracker is incredible, worth every penny.",positive
+539,2025-06-25,Zephyr Bluetooth Speaker,4,Best purchase this year. The Zephyr Bluetooth Speaker exceeded my expectations in every way.,positive
+406,2025-06-26,Halo Desk Lamp,2,The app for the Halo Desk Lamp is buggy and crashes constantly.,negative
+352,2025-06-27,Comet Phone Case,5,Best purchase this year. The Comet Phone Case exceeded my expectations in every way.,positive
+124,2025-06-27,Comet Phone Case,1,"Battery life on the Comet Phone Case is terrible, dies within a few hours.",negative
+407,2025-06-27,Nimbus Smart Watch,4,The Nimbus Smart Watch has great battery life and the app integration is seamless.,positive
+276,2025-06-28,Aurora Wireless Earbuds,1,"Battery life on the Aurora Wireless Earbuds is terrible, dies within a few hours.",negative
+256,2025-06-29,Aurora Wireless Earbuds,5,The Aurora Wireless Earbuds has great battery life and the app integration is seamless.,positive
+77,2025-06-29,Zephyr Bluetooth Speaker,3,"The Zephyr Bluetooth Speaker works fine, though the design could be improved.",neutral
+206,2025-06-30,Halo Desk Lamp,1,"The Halo Desk Lamp disconnects randomly, connectivity issues are frustrating.",negative
+548,2025-06-30,Halo Desk Lamp,5,Best purchase this year. The Halo Desk Lamp exceeded my expectations in every way.,positive
+380,2025-06-30,Pulse Fitness Tracker,3,"Average experience with the Pulse Fitness Tracker, meets basic expectations.",neutral
+488,2025-07-01,Halo Desk Lamp,5,Fast shipping and the Halo Desk Lamp feels premium. Highly recommend!,positive
+575,2025-07-03,Zephyr Bluetooth Speaker,2,"Battery life on the Zephyr Bluetooth Speaker is terrible, dies within a few hours.",negative
+70,2025-07-03,Nimbus Smart Watch,4,I'm impressed with the build quality of the Nimbus Smart Watch. Feels sturdy and well made.,positive
+226,2025-07-03,Halo Desk Lamp,3,"Mixed feelings about the Halo Desk Lamp, some features are good, others not so much.",neutral
+429,2025-07-04,Halo Desk Lamp,2,The Halo Desk Lamp stopped working after two weeks. Very disappointed.,negative
+528,2025-07-04,Halo Desk Lamp,1,The app for the Halo Desk Lamp is buggy and crashes constantly.,negative
+29,2025-07-05,Halo Desk Lamp,4,Absolutely love the Halo Desk Lamp! The battery life is amazing and it works perfectly.,positive
+344,2025-07-05,Aurora Wireless Earbuds,5,Fast shipping and the Aurora Wireless Earbuds feels premium. Highly recommend!,positive
+236,2025-07-05,Aurora Wireless Earbuds,2,Shipping was delayed and the Aurora Wireless Earbuds arrived with a scratch.,negative
+214,2025-07-07,Aurora Wireless Earbuds,5,Fast shipping and the Aurora Wireless Earbuds feels premium. Highly recommend!,positive
+393,2025-07-08,Comet Phone Case,1,Shipping was delayed and the Comet Phone Case arrived with a scratch.,negative
+225,2025-07-08,Nimbus Smart Watch,3,"The Nimbus Smart Watch is okay, does what it says but nothing special.",neutral
+305,2025-07-08,Pulse Fitness Tracker,3,"Average experience with the Pulse Fitness Tracker, meets basic expectations.",neutral
+473,2025-07-09,Comet Phone Case,4,I'm impressed with the build quality of the Comet Phone Case. Feels sturdy and well made.,positive
+259,2025-07-09,Pulse Fitness Tracker,4,I'm impressed with the build quality of the Pulse Fitness Tracker. Feels sturdy and well made.,positive
+289,2025-07-10,Pulse Fitness Tracker,2,The Pulse Fitness Tracker feels cheap and the build quality is poor for the price.,negative
+216,2025-07-10,Pulse Fitness Tracker,5,The Pulse Fitness Tracker has great battery life and the app integration is seamless.,positive
+386,2025-07-11,Nimbus Smart Watch,3,"It's a decent Nimbus Smart Watch for the price, no major complaints.",neutral
+196,2025-07-11,Zephyr Bluetooth Speaker,2,"The Zephyr Bluetooth Speaker disconnects randomly, connectivity issues are frustrating.",negative
+34,2025-07-11,Pulse Fitness Tracker,3,"Mixed feelings about the Pulse Fitness Tracker, some features are good, others not so much.",neutral
+572,2025-07-12,Nimbus Smart Watch,2,"The Nimbus Smart Watch disconnects randomly, connectivity issues are frustrating.",negative
+13,2025-07-14,Halo Desk Lamp,2,The Halo Desk Lamp feels cheap and the build quality is poor for the price.,negative
+21,2025-07-15,Comet Phone Case,5,Best purchase this year. The Comet Phone Case exceeded my expectations in every way.,positive
+589,2025-07-15,Aurora Wireless Earbuds,4,The Aurora Wireless Earbuds has great battery life and the app integration is seamless.,positive
+202,2025-07-16,Comet Phone Case,4,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+313,2025-07-17,Aurora Wireless Earbuds,4,I'm impressed with the build quality of the Aurora Wireless Earbuds. Feels sturdy and well made.,positive
+510,2025-07-17,Aurora Wireless Earbuds,5,Best purchase this year. The Aurora Wireless Earbuds exceeded my expectations in every way.,positive
+221,2025-07-18,Nimbus Smart Watch,3,"Average experience with the Nimbus Smart Watch, meets basic expectations.",neutral
+547,2025-07-18,Aurora Wireless Earbuds,5,"The Aurora Wireless Earbuds is comfortable to use for hours, no complaints at all.",positive
+463,2025-07-18,Aurora Wireless Earbuds,1,The app for the Aurora Wireless Earbuds is buggy and crashes constantly.,negative
+274,2025-07-22,Aurora Wireless Earbuds,4,Customer service was excellent when I had a question about the Aurora Wireless Earbuds.,positive
+516,2025-07-22,Pulse Fitness Tracker,4,The Pulse Fitness Tracker has great battery life and the app integration is seamless.,positive
+57,2025-07-22,Comet Phone Case,2,Had a bad experience with customer support regarding my Comet Phone Case.,negative
+190,2025-07-23,Pulse Fitness Tracker,2,"The Pulse Fitness Tracker disconnects randomly, connectivity issues are frustrating.",negative
+497,2025-07-23,Zephyr Bluetooth Speaker,4,Fast shipping and the Zephyr Bluetooth Speaker feels premium. Highly recommend!,positive
+501,2025-07-23,Pulse Fitness Tracker,5,Best purchase this year. The Pulse Fitness Tracker exceeded my expectations in every way.,positive
+331,2025-07-23,Zephyr Bluetooth Speaker,3,"The Zephyr Bluetooth Speaker arrived on time, still testing it out.",neutral
+417,2025-07-23,Nimbus Smart Watch,4,"The sound quality on the Nimbus Smart Watch is incredible, worth every penny.",positive
+122,2025-07-23,Aurora Wireless Earbuds,2,"The Aurora Wireless Earbuds disconnects randomly, connectivity issues are frustrating.",negative
+531,2025-07-24,Halo Desk Lamp,3,"Mixed feelings about the Halo Desk Lamp, some features are good, others not so much.",neutral
+18,2025-07-24,Zephyr Bluetooth Speaker,5,The Zephyr Bluetooth Speaker has great battery life and the app integration is seamless.,positive
+334,2025-07-24,Zephyr Bluetooth Speaker,5,I'm impressed with the build quality of the Zephyr Bluetooth Speaker. Feels sturdy and well made.,positive
+48,2025-07-25,Nimbus Smart Watch,4,"The Nimbus Smart Watch is comfortable to use for hours, no complaints at all.",positive
+527,2025-07-25,Pulse Fitness Tracker,3,"It's a decent Pulse Fitness Tracker for the price, no major complaints.",neutral
+169,2025-07-25,Zephyr Bluetooth Speaker,5,"The Zephyr Bluetooth Speaker is comfortable to use for hours, no complaints at all.",positive
+85,2025-07-26,Halo Desk Lamp,5,Customer service was excellent when I had a question about the Halo Desk Lamp.,positive
+489,2025-07-27,Zephyr Bluetooth Speaker,2,"Battery life on the Zephyr Bluetooth Speaker is terrible, dies within a few hours.",negative
+71,2025-07-28,Nimbus Smart Watch,2,"Battery life on the Nimbus Smart Watch is terrible, dies within a few hours.",negative
+413,2025-07-28,Comet Phone Case,1,The Comet Phone Case stopped working after two weeks. Very disappointed.,negative
+155,2025-07-29,Nimbus Smart Watch,1,The Nimbus Smart Watch feels cheap and the build quality is poor for the price.,negative
+524,2025-07-29,Comet Phone Case,4,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+42,2025-07-30,Aurora Wireless Earbuds,2,"Not worth the money, the Aurora Wireless Earbuds broke within a month.",negative
+262,2025-08-01,Pulse Fitness Tracker,2,Shipping was delayed and the Pulse Fitness Tracker arrived with a scratch.,negative
+222,2025-08-01,Pulse Fitness Tracker,4,Customer service was excellent when I had a question about the Pulse Fitness Tracker.,positive
+371,2025-08-01,Aurora Wireless Earbuds,2,The Aurora Wireless Earbuds feels cheap and the build quality is poor for the price.,negative
+312,2025-08-01,Pulse Fitness Tracker,3,"The Pulse Fitness Tracker is okay, does what it says but nothing special.",neutral
+245,2025-08-01,Nimbus Smart Watch,5,"The Nimbus Smart Watch is comfortable to use for hours, no complaints at all.",positive
+368,2025-08-02,Aurora Wireless Earbuds,4,The Aurora Wireless Earbuds has great battery life and the app integration is seamless.,positive
+322,2025-08-02,Zephyr Bluetooth Speaker,4,I'm impressed with the build quality of the Zephyr Bluetooth Speaker. Feels sturdy and well made.,positive
+55,2025-08-03,Halo Desk Lamp,4,Absolutely love the Halo Desk Lamp! The battery life is amazing and it works perfectly.,positive
+86,2025-08-04,Comet Phone Case,4,"The sound quality on the Comet Phone Case is incredible, worth every penny.",positive
+444,2025-08-04,Aurora Wireless Earbuds,4,"The sound quality on the Aurora Wireless Earbuds is incredible, worth every penny.",positive
+115,2025-08-04,Zephyr Bluetooth Speaker,2,The app for the Zephyr Bluetooth Speaker is buggy and crashes constantly.,negative
+5,2025-08-05,Halo Desk Lamp,4,Absolutely love the Halo Desk Lamp! The battery life is amazing and it works perfectly.,positive
+65,2025-08-05,Halo Desk Lamp,4,Absolutely love the Halo Desk Lamp! The battery life is amazing and it works perfectly.,positive
+45,2025-08-05,Nimbus Smart Watch,4,"The Nimbus Smart Watch is comfortable to use for hours, no complaints at all.",positive
+158,2025-08-06,Comet Phone Case,4,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+201,2025-08-06,Aurora Wireless Earbuds,5,I'm impressed with the build quality of the Aurora Wireless Earbuds. Feels sturdy and well made.,positive
+138,2025-08-06,Comet Phone Case,2,Shipping was delayed and the Comet Phone Case arrived with a scratch.,negative
+96,2025-08-06,Nimbus Smart Watch,1,The Nimbus Smart Watch stopped working after two weeks. Very disappointed.,negative
+458,2025-08-07,Pulse Fitness Tracker,4,Absolutely love the Pulse Fitness Tracker! The battery life is amazing and it works perfectly.,positive
+239,2025-08-07,Aurora Wireless Earbuds,3,"It's a decent Aurora Wireless Earbuds for the price, no major complaints.",neutral
+425,2025-08-07,Halo Desk Lamp,3,"It's a decent Halo Desk Lamp for the price, no major complaints.",neutral
+99,2025-08-07,Halo Desk Lamp,3,"The Halo Desk Lamp arrived on time, still testing it out.",neutral
+543,2025-08-08,Pulse Fitness Tracker,5,Fast shipping and the Pulse Fitness Tracker feels premium. Highly recommend!,positive
+584,2025-08-08,Aurora Wireless Earbuds,4,The Aurora Wireless Earbuds has great battery life and the app integration is seamless.,positive
+112,2025-08-08,Pulse Fitness Tracker,1,The Pulse Fitness Tracker stopped working after two weeks. Very disappointed.,negative
+152,2025-08-08,Pulse Fitness Tracker,5,"The Pulse Fitness Tracker is comfortable to use for hours, no complaints at all.",positive
+576,2025-08-08,Aurora Wireless Earbuds,1,The app for the Aurora Wireless Earbuds is buggy and crashes constantly.,negative
+270,2025-08-08,Aurora Wireless Earbuds,5,Best purchase this year. The Aurora Wireless Earbuds exceeded my expectations in every way.,positive
+69,2025-08-09,Halo Desk Lamp,4,I'm impressed with the build quality of the Halo Desk Lamp. Feels sturdy and well made.,positive
+263,2025-08-09,Zephyr Bluetooth Speaker,5,Best purchase this year. The Zephyr Bluetooth Speaker exceeded my expectations in every way.,positive
+82,2025-08-09,Comet Phone Case,5,Fast shipping and the Comet Phone Case feels premium. Highly recommend!,positive
+267,2025-08-09,Zephyr Bluetooth Speaker,5,Absolutely love the Zephyr Bluetooth Speaker! The battery life is amazing and it works perfectly.,positive
+361,2025-08-10,Zephyr Bluetooth Speaker,4,"The sound quality on the Zephyr Bluetooth Speaker is incredible, worth every penny.",positive
+542,2025-08-10,Nimbus Smart Watch,1,The Nimbus Smart Watch feels cheap and the build quality is poor for the price.,negative
+248,2025-08-10,Aurora Wireless Earbuds,4,Best purchase this year. The Aurora Wireless Earbuds exceeded my expectations in every way.,positive
+269,2025-08-12,Pulse Fitness Tracker,3,"The Pulse Fitness Tracker is okay, does what it says but nothing special.",neutral
+273,2025-08-12,Comet Phone Case,3,"The Comet Phone Case is okay, does what it says but nothing special.",neutral
+343,2025-08-13,Nimbus Smart Watch,3,"Mixed feelings about the Nimbus Smart Watch, some features are good, others not so much.",neutral
+288,2025-08-13,Halo Desk Lamp,1,The Halo Desk Lamp stopped working after two weeks. Very disappointed.,negative
+160,2025-08-13,Aurora Wireless Earbuds,5,The Aurora Wireless Earbuds has great battery life and the app integration is seamless.,positive
+173,2025-08-13,Aurora Wireless Earbuds,5,"The sound quality on the Aurora Wireless Earbuds is incredible, worth every penny.",positive
+561,2025-08-14,Zephyr Bluetooth Speaker,1,"Not worth the money, the Zephyr Bluetooth Speaker broke within a month.",negative
+146,2025-08-14,Aurora Wireless Earbuds,2,Shipping was delayed and the Aurora Wireless Earbuds arrived with a scratch.,negative
+46,2025-08-15,Nimbus Smart Watch,4,Fast shipping and the Nimbus Smart Watch feels premium. Highly recommend!,positive
+172,2025-08-15,Pulse Fitness Tracker,5,I'm impressed with the build quality of the Pulse Fitness Tracker. Feels sturdy and well made.,positive
+89,2025-08-15,Zephyr Bluetooth Speaker,5,I'm impressed with the build quality of the Zephyr Bluetooth Speaker. Feels sturdy and well made.,positive
+98,2025-08-15,Aurora Wireless Earbuds,5,"The Aurora Wireless Earbuds is comfortable to use for hours, no complaints at all.",positive
+346,2025-08-16,Comet Phone Case,5,I'm impressed with the build quality of the Comet Phone Case. Feels sturdy and well made.,positive
+339,2025-08-16,Pulse Fitness Tracker,1,The app for the Pulse Fitness Tracker is buggy and crashes constantly.,negative
+557,2025-08-16,Comet Phone Case,5,"The Comet Phone Case is comfortable to use for hours, no complaints at all.",positive
+507,2025-08-16,Zephyr Bluetooth Speaker,5,Absolutely love the Zephyr Bluetooth Speaker! The battery life is amazing and it works perfectly.,positive
+224,2025-08-16,Aurora Wireless Earbuds,2,Had a bad experience with customer support regarding my Aurora Wireless Earbuds.,negative
+452,2025-08-17,Nimbus Smart Watch,4,Best purchase this year. The Nimbus Smart Watch exceeded my expectations in every way.,positive
+533,2025-08-17,Aurora Wireless Earbuds,4,Fast shipping and the Aurora Wireless Earbuds feels premium. Highly recommend!,positive
+181,2025-08-17,Comet Phone Case,4,"The Comet Phone Case is comfortable to use for hours, no complaints at all.",positive
+445,2025-08-18,Zephyr Bluetooth Speaker,3,"It's a decent Zephyr Bluetooth Speaker for the price, no major complaints.",neutral
+4,2025-08-18,Comet Phone Case,1,The app for the Comet Phone Case is buggy and crashes constantly.,negative
+100,2025-08-19,Halo Desk Lamp,5,"The sound quality on the Halo Desk Lamp is incredible, worth every penny.",positive
+286,2025-08-19,Zephyr Bluetooth Speaker,1,The Zephyr Bluetooth Speaker feels cheap and the build quality is poor for the price.,negative
+563,2025-08-19,Zephyr Bluetooth Speaker,3,"The Zephyr Bluetooth Speaker is okay, does what it says but nothing special.",neutral
+464,2025-08-19,Nimbus Smart Watch,4,I'm impressed with the build quality of the Nimbus Smart Watch. Feels sturdy and well made.,positive
+244,2025-08-20,Comet Phone Case,2,Had a bad experience with customer support regarding my Comet Phone Case.,negative
+370,2025-08-21,Pulse Fitness Tracker,5,Customer service was excellent when I had a question about the Pulse Fitness Tracker.,positive
+227,2025-08-21,Aurora Wireless Earbuds,4,Fast shipping and the Aurora Wireless Earbuds feels premium. Highly recommend!,positive
+182,2025-08-22,Halo Desk Lamp,5,I'm impressed with the build quality of the Halo Desk Lamp. Feels sturdy and well made.,positive
+93,2025-08-22,Aurora Wireless Earbuds,4,"The Aurora Wireless Earbuds is comfortable to use for hours, no complaints at all.",positive
+536,2025-08-22,Comet Phone Case,5,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+546,2025-08-23,Halo Desk Lamp,4,I'm impressed with the build quality of the Halo Desk Lamp. Feels sturdy and well made.,positive
+329,2025-08-23,Comet Phone Case,4,"The sound quality on the Comet Phone Case is incredible, worth every penny.",positive
+559,2025-08-23,Aurora Wireless Earbuds,4,The Aurora Wireless Earbuds has great battery life and the app integration is seamless.,positive
+272,2025-08-24,Pulse Fitness Tracker,4,I'm impressed with the build quality of the Pulse Fitness Tracker. Feels sturdy and well made.,positive
+127,2025-08-24,Pulse Fitness Tracker,3,"Mixed feelings about the Pulse Fitness Tracker, some features are good, others not so much.",neutral
+199,2025-08-24,Halo Desk Lamp,5,"The Halo Desk Lamp is comfortable to use for hours, no complaints at all.",positive
+284,2025-08-25,Aurora Wireless Earbuds,2,"Battery life on the Aurora Wireless Earbuds is terrible, dies within a few hours.",negative
+541,2025-08-25,Nimbus Smart Watch,2,"Not worth the money, the Nimbus Smart Watch broke within a month.",negative
+306,2025-08-25,Comet Phone Case,3,"It's a decent Comet Phone Case for the price, no major complaints.",neutral
+523,2025-08-25,Halo Desk Lamp,4,"The sound quality on the Halo Desk Lamp is incredible, worth every penny.",positive
+171,2025-08-25,Zephyr Bluetooth Speaker,4,Customer service was excellent when I had a question about the Zephyr Bluetooth Speaker.,positive
+462,2025-08-26,Zephyr Bluetooth Speaker,3,"Average experience with the Zephyr Bluetooth Speaker, meets basic expectations.",neutral
+130,2025-08-26,Aurora Wireless Earbuds,4,"The Aurora Wireless Earbuds is comfortable to use for hours, no complaints at all.",positive
+110,2025-08-28,Pulse Fitness Tracker,4,Customer service was excellent when I had a question about the Pulse Fitness Tracker.,positive
+213,2025-08-28,Zephyr Bluetooth Speaker,1,"Not worth the money, the Zephyr Bluetooth Speaker broke within a month.",negative
+167,2025-08-29,Halo Desk Lamp,4,"The Halo Desk Lamp is comfortable to use for hours, no complaints at all.",positive
+324,2025-08-29,Halo Desk Lamp,2,The Halo Desk Lamp stopped working after two weeks. Very disappointed.,negative
+443,2025-08-30,Halo Desk Lamp,3,"The Halo Desk Lamp is okay, does what it says but nothing special.",neutral
+433,2025-08-30,Nimbus Smart Watch,5,I'm impressed with the build quality of the Nimbus Smart Watch. Feels sturdy and well made.,positive
+247,2025-08-31,Zephyr Bluetooth Speaker,3,"Mixed feelings about the Zephyr Bluetooth Speaker, some features are good, others not so much.",neutral
+40,2025-08-31,Comet Phone Case,3,"The Comet Phone Case arrived on time, still testing it out.",neutral
+119,2025-08-31,Aurora Wireless Earbuds,1,Had a bad experience with customer support regarding my Aurora Wireless Earbuds.,negative
+414,2025-09-02,Comet Phone Case,3,"It's a decent Comet Phone Case for the price, no major complaints.",neutral
+432,2025-09-02,Zephyr Bluetooth Speaker,1,Had a bad experience with customer support regarding my Zephyr Bluetooth Speaker.,negative
+147,2025-09-02,Zephyr Bluetooth Speaker,5,Absolutely love the Zephyr Bluetooth Speaker! The battery life is amazing and it works perfectly.,positive
+395,2025-09-03,Halo Desk Lamp,4,Fast shipping and the Halo Desk Lamp feels premium. Highly recommend!,positive
+404,2025-09-03,Zephyr Bluetooth Speaker,2,Shipping was delayed and the Zephyr Bluetooth Speaker arrived with a scratch.,negative
+519,2025-09-03,Halo Desk Lamp,3,"Average experience with the Halo Desk Lamp, meets basic expectations.",neutral
+328,2025-09-03,Zephyr Bluetooth Speaker,2,The Zephyr Bluetooth Speaker feels cheap and the build quality is poor for the price.,negative
+358,2025-09-03,Pulse Fitness Tracker,3,"Mixed feelings about the Pulse Fitness Tracker, some features are good, others not so much.",neutral
+308,2025-09-04,Halo Desk Lamp,4,The Halo Desk Lamp has great battery life and the app integration is seamless.,positive
+212,2025-09-04,Zephyr Bluetooth Speaker,3,"The Zephyr Bluetooth Speaker works fine, though the design could be improved.",neutral
+177,2025-09-05,Comet Phone Case,5,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+514,2025-09-05,Nimbus Smart Watch,5,Customer service was excellent when I had a question about the Nimbus Smart Watch.,positive
+128,2025-09-05,Comet Phone Case,5,"The sound quality on the Comet Phone Case is incredible, worth every penny.",positive
+297,2025-09-06,Zephyr Bluetooth Speaker,5,Fast shipping and the Zephyr Bluetooth Speaker feels premium. Highly recommend!,positive
+574,2025-09-07,Comet Phone Case,5,I'm impressed with the build quality of the Comet Phone Case. Feels sturdy and well made.,positive
+132,2025-09-07,Pulse Fitness Tracker,3,"Average experience with the Pulse Fitness Tracker, meets basic expectations.",neutral
+477,2025-09-08,Halo Desk Lamp,2,"Not worth the money, the Halo Desk Lamp broke within a month.",negative
+479,2025-09-08,Comet Phone Case,1,The Comet Phone Case feels cheap and the build quality is poor for the price.,negative
+571,2025-09-08,Comet Phone Case,5,Fast shipping and the Comet Phone Case feels premium. Highly recommend!,positive
+392,2025-09-08,Halo Desk Lamp,3,"The Halo Desk Lamp arrived on time, still testing it out.",neutral
+502,2025-09-09,Zephyr Bluetooth Speaker,5,The Zephyr Bluetooth Speaker has great battery life and the app integration is seamless.,positive
+148,2025-09-09,Aurora Wireless Earbuds,3,"It's a decent Aurora Wireless Earbuds for the price, no major complaints.",neutral
+279,2025-09-10,Nimbus Smart Watch,3,"Mixed feelings about the Nimbus Smart Watch, some features are good, others not so much.",neutral
+198,2025-09-12,Nimbus Smart Watch,4,Customer service was excellent when I had a question about the Nimbus Smart Watch.,positive
+598,2025-09-13,Nimbus Smart Watch,4,Best purchase this year. The Nimbus Smart Watch exceeded my expectations in every way.,positive
+493,2025-09-13,Comet Phone Case,4,"The sound quality on the Comet Phone Case is incredible, worth every penny.",positive
+176,2025-09-13,Aurora Wireless Earbuds,4,Best purchase this year. The Aurora Wireless Earbuds exceeded my expectations in every way.,positive
+378,2025-09-13,Nimbus Smart Watch,2,Shipping was delayed and the Nimbus Smart Watch arrived with a scratch.,negative
+476,2025-09-13,Nimbus Smart Watch,4,Customer service was excellent when I had a question about the Nimbus Smart Watch.,positive
+499,2025-09-14,Pulse Fitness Tracker,1,The Pulse Fitness Tracker feels cheap and the build quality is poor for the price.,negative
+26,2025-09-14,Comet Phone Case,3,"The Comet Phone Case works fine, though the design could be improved.",neutral
+211,2025-09-14,Halo Desk Lamp,3,"The Halo Desk Lamp works fine, though the design could be improved.",neutral
+486,2025-09-15,Halo Desk Lamp,1,"The Halo Desk Lamp disconnects randomly, connectivity issues are frustrating.",negative
+186,2025-09-15,Pulse Fitness Tracker,3,"Average experience with the Pulse Fitness Tracker, meets basic expectations.",neutral
+379,2025-09-16,Zephyr Bluetooth Speaker,5,Best purchase this year. The Zephyr Bluetooth Speaker exceeded my expectations in every way.,positive
+436,2025-09-16,Comet Phone Case,4,Best purchase this year. The Comet Phone Case exceeded my expectations in every way.,positive
+556,2025-09-16,Nimbus Smart Watch,3,"The Nimbus Smart Watch arrived on time, still testing it out.",neutral
+421,2025-09-16,Pulse Fitness Tracker,3,"Average experience with the Pulse Fitness Tracker, meets basic expectations.",neutral
+125,2025-09-17,Halo Desk Lamp,4,I'm impressed with the build quality of the Halo Desk Lamp. Feels sturdy and well made.,positive
+252,2025-09-17,Zephyr Bluetooth Speaker,1,"Not worth the money, the Zephyr Bluetooth Speaker broke within a month.",negative
+299,2025-09-17,Zephyr Bluetooth Speaker,3,"The Zephyr Bluetooth Speaker is okay, does what it says but nothing special.",neutral
+27,2025-09-17,Nimbus Smart Watch,2,"Battery life on the Nimbus Smart Watch is terrible, dies within a few hours.",negative
+354,2025-09-18,Comet Phone Case,2,The Comet Phone Case feels cheap and the build quality is poor for the price.,negative
+80,2025-09-19,Halo Desk Lamp,5,I'm impressed with the build quality of the Halo Desk Lamp. Feels sturdy and well made.,positive
+310,2025-09-20,Aurora Wireless Earbuds,2,"The Aurora Wireless Earbuds disconnects randomly, connectivity issues are frustrating.",negative
+573,2025-09-21,Pulse Fitness Tracker,5,Best purchase this year. The Pulse Fitness Tracker exceeded my expectations in every way.,positive
+360,2025-09-22,Zephyr Bluetooth Speaker,2,Shipping was delayed and the Zephyr Bluetooth Speaker arrived with a scratch.,negative
+134,2025-09-22,Halo Desk Lamp,1,"The Halo Desk Lamp disconnects randomly, connectivity issues are frustrating.",negative
+540,2025-09-22,Comet Phone Case,4,"The sound quality on the Comet Phone Case is incredible, worth every penny.",positive
+596,2025-09-23,Comet Phone Case,4,The Comet Phone Case has great battery life and the app integration is seamless.,positive
+151,2025-09-25,Aurora Wireless Earbuds,1,The app for the Aurora Wireless Earbuds is buggy and crashes constantly.,negative
+420,2025-09-26,Pulse Fitness Tracker,3,"The Pulse Fitness Tracker arrived on time, still testing it out.",neutral
+459,2025-09-26,Halo Desk Lamp,5,I'm impressed with the build quality of the Halo Desk Lamp. Feels sturdy and well made.,positive
+235,2025-09-27,Nimbus Smart Watch,5,"The sound quality on the Nimbus Smart Watch is incredible, worth every penny.",positive
+400,2025-09-27,Halo Desk Lamp,5,I'm impressed with the build quality of the Halo Desk Lamp. Feels sturdy and well made.,positive
+295,2025-09-27,Zephyr Bluetooth Speaker,1,"Not worth the money, the Zephyr Bluetooth Speaker broke within a month.",negative
+435,2025-09-28,Comet Phone Case,2,"Battery life on the Comet Phone Case is terrible, dies within a few hours.",negative
+61,2025-09-28,Zephyr Bluetooth Speaker,5,"The Zephyr Bluetooth Speaker is comfortable to use for hours, no complaints at all.",positive
+494,2025-09-28,Pulse Fitness Tracker,1,"Not worth the money, the Pulse Fitness Tracker broke within a month.",negative
+32,2025-09-28,Comet Phone Case,5,"The sound quality on the Comet Phone Case is incredible, worth every penny.",positive
+447,2025-09-28,Nimbus Smart Watch,3,"It's a decent Nimbus Smart Watch for the price, no major complaints.",neutral
